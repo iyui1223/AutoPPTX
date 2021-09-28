@@ -120,34 +120,6 @@ SON2 @@@ANL@@@/PSEA/r28k03_SON_EN_biasclim_jp.png @@@TESTDIR@@@
 DJF1 @@@ANL@@@/PSEA/r28k03_DJF_EN_biasclim_jp.png @@@CNTLDIR@@@
 DJF2 @@@ANL@@@/PSEA/r28k03_DJF_EN_biasclim_jp.png @@@TESTDIR@@@
 
-slide17
-TST1 CHI2_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-TST2 PSI2_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL1 T850_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL2 PSI8_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-ANL1 PSEA_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-
-slide18
-TST1 CHI2_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-TST2 PSI2_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL1 T850_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL2 PSI8_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-ANL1 PSEA_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-
-slide19
-TST1 CHI2_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-TST2 PSI2_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL1 T850_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL2 PSI8_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-ANL1 PSEA_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-
-slide20
-TST1 CHI2_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-TST2 PSI2_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL1 T850_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-CTL2 PSI8_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-ANL1 PSEA_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
-
 slide21
 MAM1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
 MAM2 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
