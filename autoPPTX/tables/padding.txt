@@ -1,0 +1,21 @@
+# this file contains the specification of empty space that should be left after inserting images.
+# if nothing given, default=1 inch will be used.
+# "slidename" "padding in inches"
+# "slidename" "paddingLeft" "paddingRight" "paddingTop" "paddingBottom"
+slide01  1 1 1.5 1
+slide02  1 1 1.5 1
+slide03  1 1 1.5 1
+slide04  1 1 1.5 1
+slide05  1 1 1.5 1
+slide06  1 1 1.5 1
+slide07  1 1 1.5 1
+slide08  1 1 1.5 1
+slide09  1 1 1.5 1
+slide10a 1 1 1.5 1
+slide10b 1 1 1.5 1
+slide12  1 1 1.5 1
+slide15  1 1 1.5 0
+slide16  1 1 1.5 0
+slide17  1 1 1.5 0
+slide18  1 1 1.5 0
+slide19  1 1 1.5 0

@@ -1,0 +1,174 @@
+slide01
+CTL1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL1 @@@ANL@@@/CHI2/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+CTL2 @@@ANL@@@/CHI2/r28k03_JJA_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST2 @@@ANL@@@/CHI2/r28k03_JJA_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL2 @@@ANL@@@/CHI2/r28k03_JJA_EN_bias_gl.png @@@CMPDIR@@@
+
+slide02
+CTL1 @@@ANL@@@/RAIN/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST1 @@@ANL@@@/RAIN/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL1 @@@ANL@@@/RAIN/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+CTL2 @@@ANL@@@/RAIN/r28k03_JJA_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST2 @@@ANL@@@/RAIN/r28k03_JJA_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL2 @@@ANL@@@/RAIN/r28k03_JJA_EN_bias_gl.png @@@CMPDIR@@@
+
+slide03
+CTL1 @@@ANL@@@/Z500/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST1 @@@ANL@@@/Z500/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL1 @@@ANL@@@/Z500/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+CTL2 @@@ANL@@@/Z500/r28k03_JJA_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST2 @@@ANL@@@/Z500/r28k03_JJA_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL2 @@@ANL@@@/Z500/r28k03_JJA_EN_bias_gl.png @@@CMPDIR@@@
+
+slide04
+CTL1 @@@ANL@@@/T850/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST1 @@@ANL@@@/T850/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL1 @@@ANL@@@/T850/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+CTL2 @@@ANL@@@/T850/r28k03_JJA_EN_biasclim_gl.png @@@CNTLDIR@@@
+TST2 @@@ANL@@@/T850/r28k03_JJA_EN_biasclim_gl.png @@@TESTDIR@@@
+ANL2 @@@ANL@@@/T850/r28k03_JJA_EN_bias_gl.png @@@CMPDIR@@@
+
+slide05
+CTL1 chi200_win_phase3_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST1 chi200_win_phase3_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL1 chi200_win_phase3_@@@ANL,,@@@.png @@@TESTDIR2@@@
+CTL2 olr_win_phase3_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST2 olr_win_phase3_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL2 olr_win_phase3_noaa.png @@@TESTDIR2@@@
+
+slide06
+CTL1 chi200_sum_phase3_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST1 chi200_sum_phase3_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL1 chi200_sum_phase3_@@@ANL,,@@@.png @@@TESTDIR2@@@
+CTL2 olr_sum_phase3_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST2 olr_sum_phase3_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL2 olr_sum_phase3_noaa.png @@@TESTDIR2@@@
+
+slide07
+CTL1 chi200_win_phase4_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST1 chi200_win_phase4_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL1 chi200_win_phase4_@@@ANL,,@@@.png @@@TESTDIR2@@@
+CTL2 olr_win_phase4_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST2 olr_win_phase4_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL2 olr_win_phase4_noaa.png @@@TESTDIR2@@@
+
+slide08
+CTL1 chi200_sum_phase4_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST1 chi200_sum_phase4_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL1 chi200_sum_phase4_@@@ANL,,@@@.png @@@TESTDIR2@@@
+CTL2 olr_sum_phase4_@@@CNTLNAME@@@bc.png @@@CNTLDIR2@@@
+TST2 olr_sum_phase4_@@@TESTNAME@@@bc.png @@@TESTDIR2@@@
+ANL2 olr_sum_phase4_noaa.png @@@TESTDIR2@@@
+
+slide09
+CTL1 @@@ANL@@@/RAIN1D_0131_fclm_phl.png @@@CNTLDIR@@@
+TST1 @@@ANL@@@/RAIN1D_0131_fclm_phl.png @@@TESTDIR@@@
+ANL1 @@@ANL@@@/RAIN1D_0131_xclm_phl.png @@@TESTDIR@@@
+CTL2 @@@ANL@@@/RAIN1D_0131_fclm_ind.png @@@CNTLDIR@@@
+TST2 @@@ANL@@@/RAIN1D_0131_fclm_ind.png @@@TESTDIR@@@
+ANL2 @@@ANL@@@/RAIN1D_0131_xclm_ind.png @@@TESTDIR@@@
+
+slide10
+TST score_1991-2019_bc_all_amp0.png @@@CMPDIR2@@@
+CTL score_1991-2019_bc_all_amp1.png @@@CMPDIR2@@@
+
+slide11
+TST score_1991-2019_bc_sum_amp1.png @@@CMPDIR2@@@
+CTL score_1991-2019_bc_win_amp1.png @@@CMPDIR2@@@
+
+slide12
+1 @@@ANL@@@/T_r28k03_DJF_EN13_biasclim_gl.png @@@CNTLDIR@@@
+2 @@@ANL@@@/T_r28k03_DJF_EN13_biasclim_gl.png @@@TESTDIR@@@
+3 @@@ANL@@@/U_r28k03_DJF_EN13_biasclim_gl.png @@@CNTLDIR@@@
+4 @@@ANL@@@/U_r28k03_DJF_EN13_biasclim_gl.png @@@TESTDIR@@@
+
+slide13
+1 @@@ANL@@@/T_r28k03_JJA_EN13_biasclim_gl.png @@@CNTLDIR@@@
+2 @@@ANL@@@/T_r28k03_JJA_EN13_biasclim_gl.png @@@TESTDIR@@@
+3 @@@ANL@@@/U_r28k03_JJA_EN13_biasclim_gl.png @@@CNTLDIR@@@
+4 @@@ANL@@@/U_r28k03_JJA_EN13_biasclim_gl.png @@@TESTDIR@@@
+
+slide14
+MAM1 @@@ANL@@@/CHI2/r28k03_MAM_EN_biasclim_jp.png @@@CNTLDIR@@@
+MAM2 @@@ANL@@@/CHI2/r28k03_MAM_EN_biasclim_jp.png @@@TESTDIR@@@
+JJA1 @@@ANL@@@/CHI2/r28k03_JJA_EN_biasclim_jp.png @@@CNTLDIR@@@
+JJA2 @@@ANL@@@/CHI2/r28k03_JJA_EN_biasclim_jp.png @@@TESTDIR@@@
+SON1 @@@ANL@@@/CHI2/r28k03_SON_EN_biasclim_jp.png @@@CNTLDIR@@@
+SON2 @@@ANL@@@/CHI2/r28k03_SON_EN_biasclim_jp.png @@@TESTDIR@@@
+DJF1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_jp.png @@@CNTLDIR@@@
+DJF2 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_jp.png @@@TESTDIR@@@
+
+slide15
+MAM1 @@@ANL@@@/T850/r28k03_MAM_EN_biasclim_jp.png @@@CNTLDIR@@@
+MAM2 @@@ANL@@@/T850/r28k03_MAM_EN_biasclim_jp.png @@@TESTDIR@@@
+JJA1 @@@ANL@@@/T850/r28k03_JJA_EN_biasclim_jp.png @@@CNTLDIR@@@
+JJA2 @@@ANL@@@/T850/r28k03_JJA_EN_biasclim_jp.png @@@TESTDIR@@@
+SON1 @@@ANL@@@/T850/r28k03_SON_EN_biasclim_jp.png @@@CNTLDIR@@@
+SON2 @@@ANL@@@/T850/r28k03_SON_EN_biasclim_jp.png @@@TESTDIR@@@
+DJF1 @@@ANL@@@/T850/r28k03_DJF_EN_biasclim_jp.png @@@CNTLDIR@@@
+DJF2 @@@ANL@@@/T850/r28k03_DJF_EN_biasclim_jp.png @@@TESTDIR@@@
+
+slide16
+MAM1 @@@ANL@@@/PSEA/r28k03_MAM_EN_biasclim_jp.png @@@CNTLDIR@@@
+MAM2 @@@ANL@@@/PSEA/r28k03_MAM_EN_biasclim_jp.png @@@TESTDIR@@@
+JJA1 @@@ANL@@@/PSEA/r28k03_JJA_EN_biasclim_jp.png @@@CNTLDIR@@@
+JJA2 @@@ANL@@@/PSEA/r28k03_JJA_EN_biasclim_jp.png @@@TESTDIR@@@
+SON1 @@@ANL@@@/PSEA/r28k03_SON_EN_biasclim_jp.png @@@CNTLDIR@@@
+SON2 @@@ANL@@@/PSEA/r28k03_SON_EN_biasclim_jp.png @@@TESTDIR@@@
+DJF1 @@@ANL@@@/PSEA/r28k03_DJF_EN_biasclim_jp.png @@@CNTLDIR@@@
+DJF2 @@@ANL@@@/PSEA/r28k03_DJF_EN_biasclim_jp.png @@@TESTDIR@@@
+
+slide17
+TST1 CHI2_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+TST2 PSI2_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL1 T850_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL2 PSI8_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+ANL1 PSEA_GLB_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+
+slide18
+TST1 CHI2_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+TST2 PSI2_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL1 T850_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL2 PSI8_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+ANL1 PSEA_TR_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+
+slide19
+TST1 CHI2_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+TST2 PSI2_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL1 T850_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL2 PSI8_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+ANL1 PSEA_NH_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+
+slide20
+TST1 CHI2_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+TST2 PSI2_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL1 T850_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+CTL2 PSI8_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+ANL1 PSEA_NWP_acor.png /grpK/cpd/cpdall/climat15/GEPS22XX/Misc/Score/Fig/Score_nosysec/
+
+slide21
+MAM1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+MAM2 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+MAM3 @@@ANL@@@/CHI2/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+JJA1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+JJA2 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+JJA3 @@@ANL@@@/CHI2/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+SON1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+SON2 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+SON3 @@@ANL@@@/CHI2/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+DJF1 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@CNTLDIR@@@
+DJF2 @@@ANL@@@/CHI2/r28k03_DJF_EN_biasclim_gl.png @@@TESTDIR@@@
+DJF3 @@@ANL@@@/CHI2/r28k03_DJF_EN_bias_gl.png @@@CMPDIR@@@
+
+slide22
+CTL1 @@@ANL@@@/tm90_r07_DJF_nh_04-27_EN13-anl.png @@@CNTLDIR@@@
+TST1 @@@ANL@@@/tm90_r07_DJF_nh_04-27_EN13-anl.png @@@TESTDIR@@@
+ANL1 @@@ANL@@@/tm90_r07_DJF_nh_04-27_anl.png @@@TESTDIR@@@
+
+slide23
+CTL1 @@@ANL@@@/tm90_r07_NDJF_nh_04-27_EN13-anl.png @@@CNTLDIR@@@
+TST1 @@@ANL@@@/tm90_r07_NDJF_nh_04-27_EN13-anl.png @@@TESTDIR@@@
+ANL1 @@@ANL@@@/tm90_r07_NDJF_nh_04-27_anl.png @@@TESTDIR@@@
+

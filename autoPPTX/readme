@@ -1,0 +1,45 @@
+#!/bin/bash
+# this tool will automatically adjust and insert multiple images to powerpoint presentation,
+# in the order either specified by the user or just plain name-sorted.
+
+# a minimal example using shell script.
+
+# requires Python 3.7 or later and python-pptx
+PYTHON37=""
+ROOTDIR=`pwd` 
+WKROOTDIR=${ROOTDIR}/EXAMPLE/
+
+slide1=${WKROOTDIR}/slides/slide1
+slide2=${WKROOTDIR}/slides/slide2
+mkdir -p ${slide1}
+mkdir -p ${slide2}
+
+# symlink images to be included in slide1
+# While constraining the figure columns order by first half of header "CTL, TST, and CMP" 
+# and figure rows order by latter half of header "1, 2, and 3".
+# columns and rows may be automatically transposed if it can make figur size bigger.
+# permitted headers are TST,CTL,ANL,CMP. 
+
+ln -rsf ${ROOTDIR}/images/for_ex/TEST1.png ${slide1}/TST1_TEST1.png
+ln -rsf ${ROOTDIR}/images/for_ex/TEST2.jpg ${slide1}/TST2_TEST2.jpg
+ln -rsf ${ROOTDIR}/images/for_ex/TEST3.bmp ${slide1}/TST3_TEST3.bmp
+
+ln -rsf ${ROOTDIR}/images/for_ex/CNTL1.png ${slide1}/CTL1_CNTL1.png
+ln -rsf ${ROOTDIR}/images/for_ex/CNTL2.png ${slide1}/CTL2_CNTL2.png
+
+ln -rsf ${ROOTDIR}/images/for_ex/CMPR1.png ${slide1}/CMP1_CMPR1.png
+
+# link images to be included in slide2
+# Constrain the figure order by the integer headers.
+
+ln -rsf ${ROOTDIR}/images/for_ex/TEST1.png ${slide2}/1_TEST1.png
+ln -rsf ${ROOTDIR}/images/for_ex/TEST2.jpg ${slide2}/2_TEST2.jpg
+ln -rsf ${ROOTDIR}/images/for_ex/TEST3.bmp ${slide2}/3_TEST3.bmp
+ln -rsf ${ROOTDIR}/images/for_ex/CNTL1.png ${slide2}/4_CNTL1.png
+ln -rsf ${ROOTDIR}/images/for_ex/CNTL2.png ${slide2}/5_CNTL2.png
+
+${PYTHON37} "${ROOTDIR}/insertFigPPT.py" "${WKROOTDIR}/slides"
+
+cp "${WKROOTDIR}/slides/temp.pptx" ${ROOTDIR}
+
+
